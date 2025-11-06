@@ -102,9 +102,22 @@ header {
 
 .logo {
     background-color: var(--primary-color);
-    height: 4rem;
-    width: 4rem;
+    height: 5rem;
+    width: 5rem;
     border-radius: 1rem;
+}
+
+.logo1 {
+    /* background-color: var(--primary-color); */
+    height: 2rem;
+    width: 2rem;
+    border-radius: 1rem;
+}
+
+.logo-img {
+    width: 10rem;
+    height: 10rem;
+    background-color: var(--primary-color);
 }
 
 nav {
@@ -170,7 +183,7 @@ a {
 h3 {
     color: var(--primary-color);
     font-weight: bold;
-    font-size: 2.5rem;
+    font-size: 3rem;
 }
 
 @media (min-width: 300px) and (max-width: 800px) {
