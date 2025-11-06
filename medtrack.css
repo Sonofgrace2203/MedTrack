@@ -108,7 +108,6 @@ header {
 }
 
 .logo1 {
-    /* background-color: var(--primary-color); */
     height: 2rem;
     width: 2rem;
     border-radius: 1rem;
@@ -221,7 +220,7 @@ button:hover {
     display: flex;
     flex-direction: column;
     gap: 8rem;
-    height: 100vh;
+    /* height: 100vh; */
     justify-content: center;
     background-image: url('images/bg-hero.png');
     background-size: cover;
